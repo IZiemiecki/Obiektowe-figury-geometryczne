@@ -1,0 +1,27 @@
+c:\users\admin\documents\visual studio 2013\Projects\Ziemiecki42601\Ziemiecki42601\bin\Debug\Ziemiecki42601.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Ziemiecki42601\Ziemiecki42601\bin\Debug\Ziemiecki42601.exe
+c:\users\admin\documents\visual studio 2013\Projects\Ziemiecki42601\Ziemiecki42601\bin\Debug\Ziemiecki42601.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.exe
+c:\users\admin\documents\visual studio 2013\Projects\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.Ziemiecki42601.resources
+H:\Wszystko\shl\CSharp\Ziemiecki42601\Ziemiecki42601\bin\Debug\Ziemiecki42601.exe.config
+H:\Wszystko\shl\CSharp\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.exe
+H:\Wszystko\shl\CSharp\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.pdb
+H:\Wszystko\shl\CSharp\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.csprojResolveAssemblyReference.cache
+H:\Wszystko\shl\CSharp\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.Ziemiecki42601.resources
+H:\Wszystko\shl\CSharp\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.Properties.Resources.resources
+H:\Wszystko\shl\CSharp\Ziemiecki42601\Ziemiecki42601\obj\Debug\Ziemiecki42601.csproj.GenerateResource.Cache
+H:\Wszystko\shl\CSharp\Ziemiecki42601\Ziemiecki42601\bin\Debug\Ziemiecki42601.exe
+H:\Wszystko\shl\CSharp\Ziemiecki42601\Ziemiecki42601\bin\Debug\Ziemiecki42601.pdb
+H:\Wszystko\shl\CSharp\Ziemiecki42601_Projekt1\Ziemiecki42601\bin\Debug\Ziemiecki42601.exe.config
+H:\Wszystko\shl\CSharp\Ziemiecki42601_Projekt1\Ziemiecki42601\obj\Debug\Ziemiecki42601.exe
+H:\Wszystko\shl\CSharp\Ziemiecki42601_Projekt1\Ziemiecki42601\obj\Debug\Ziemiecki42601.pdb
+H:\Wszystko\shl\CSharp\Ziemiecki42601_Projekt1\Ziemiecki42601\bin\Debug\Ziemiecki42601.exe
+H:\Wszystko\shl\CSharp\Ziemiecki42601_Projekt1\Ziemiecki42601\bin\Debug\Ziemiecki42601.pdb
+H:\Wszystko\shl\CSharp\Ziemiecki42601_Projekt1\Ziemiecki42601\obj\Debug\Ziemiecki42601.csprojResolveAssemblyReference.cache
+H:\Wszystko\shl\CSharp\Ziemiecki42601_Projekt1\Ziemiecki42601\obj\Debug\Ziemiecki42601.Ziemiecki42601.resources
+H:\Wszystko\shl\CSharp\Ziemiecki42601_Projekt1\Ziemiecki42601\obj\Debug\Ziemiecki42601.Properties.Resources.resources
+H:\Wszystko\shl\CSharp\Ziemiecki42601_Projekt1\Ziemiecki42601\obj\Debug\Ziemiecki42601.csproj.GenerateResource.Cache
